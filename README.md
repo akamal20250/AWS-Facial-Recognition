@@ -8,7 +8,6 @@ This repository implements a facial-recognition–based access control system us
 
 ## Architecture  
 ![Architecture Diagram](docs/architecture-diagram.png)  
-*Figure: High-level workflow (placeholder for your drawn diagram)*  
 
 1. **Registration Flow**  
    - Employee photos uploaded to **S3** (`akamal-employee-images`)  
@@ -26,7 +25,7 @@ This repository implements a facial-recognition–based access control system us
 - **Amazon S3**  
 - **Amazon DynamoDB**  
 - **API Gateway** (REST API with binary support)  
-- **ReactJS** (create-react-app)  
+- **ReactJS** 
 
 ## Repository Structure  
 <details>
