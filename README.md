@@ -1,4 +1,4 @@
-# AWS-Facial-Recognition
+# AWS Facial Recognition
 
 
 
