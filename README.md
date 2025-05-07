@@ -74,6 +74,6 @@ AWS-Facial-Recognition/
         ├── index.css                     
         └── visitors/                     # Test visitor photos for UI dev
             ├── visitor1.jpeg             # React test: Sundar Pichai
-            ├── visitor2.jpeg             # React test: Steve Jobs (non-employee, should output failed authentication)
+            ├── visitor2.jpeg             # React test: Steve Jobs (non-employee, should fail authentication)
             ├── visitor3.jpeg             # React test: Tim Cook
             └── visitor6.jpeg             # React test: Jeff Bezos
